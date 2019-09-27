@@ -1,0 +1,10 @@
+C:\_projs\netCore\MinhaGuild\DataModel\bin\Debug\netcoreapp2.2\DataModel.deps.json
+C:\_projs\netCore\MinhaGuild\DataModel\bin\Debug\netcoreapp2.2\DataModel.dll
+C:\_projs\netCore\MinhaGuild\DataModel\obj\Debug\netcoreapp2.2\DataModel.csprojAssemblyReference.cache
+C:\_projs\netCore\MinhaGuild\DataModel\obj\Debug\netcoreapp2.2\DataModel.AssemblyInfoInputs.cache
+C:\_projs\netCore\MinhaGuild\DataModel\obj\Debug\netcoreapp2.2\DataModel.AssemblyInfo.cs
+C:\_projs\netCore\MinhaGuild\DataModel\bin\Debug\netcoreapp2.2\DataModel.runtimeconfig.json
+C:\_projs\netCore\MinhaGuild\DataModel\bin\Debug\netcoreapp2.2\DataModel.runtimeconfig.dev.json
+C:\_projs\netCore\MinhaGuild\DataModel\bin\Debug\netcoreapp2.2\DataModel.pdb
+C:\_projs\netCore\MinhaGuild\DataModel\obj\Debug\netcoreapp2.2\DataModel.dll
+C:\_projs\netCore\MinhaGuild\DataModel\obj\Debug\netcoreapp2.2\DataModel.pdb
